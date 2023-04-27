@@ -1,0 +1,25 @@
+{
+	"users":[
+		{"firstUser": {
+			"id": 1,
+			"firstName": "Aba",
+			"lastName": "Yupa",
+			"email": "aba@gmail.com",
+			"phoneNumber": "38065432167"
+		}},
+		{"secondUser": {
+			"id": 2,
+			"firstName": "Oba",
+			"lastName": "Yupa",
+			"email": "oba@gmail.com",
+			"phoneNumber": "38065432168"
+		}},
+		{"firstUser": {
+			"id": 3,
+			"firstName": "Yepa",
+			"lastName": "Yupa",
+			"email": "yepa@gmail.com",
+			"phoneNumber": "380654321611"
+		}}
+	]
+}
